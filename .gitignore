@@ -1,0 +1,12 @@
+﻿node_modules/
+dist/
+.env
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+uploads/
+.DS_Store
+*.log
+coverage/
+.vite/
